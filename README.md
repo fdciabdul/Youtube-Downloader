@@ -1,2 +1,2 @@
 # Youtube-Downloader
-Implementation of YTDLP written in rust With Tauri
+Development in progress, i dont give a fuck this not working
